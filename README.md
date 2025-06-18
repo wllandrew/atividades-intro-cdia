@@ -1,9 +1,9 @@
 # Atividades de Introdução à ciência de dados e inteligência artificial
 
-Professor: Bruno Faiçal
-Data de início: 10/06/2026
-Linguagem e ferramentas utilizadas: python, jupyter notebook
-Bibliotecas: Pandas, Numpy e Matplotlib
+- Professor: Bruno Faiçal
+- Data de início: 10/06/2026
+- Linguagem e ferramentas utilizadas: python, jupyter notebook
+- Bibliotecas: Pandas, Numpy e Matplotlib
 
 ## 1️⃣ Atividade KNN
 
